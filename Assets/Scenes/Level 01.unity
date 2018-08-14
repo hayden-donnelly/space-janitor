@@ -3288,11 +3288,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4165084468115794, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 22.07
+      value: 21.99
       objectReference: {fileID: 0}
     - target: {fileID: 4165084468115794, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 37.31
+      value: 37.01
       objectReference: {fileID: 0}
     - target: {fileID: 4165084468115794, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
       propertyPath: m_LocalPosition.z
@@ -3300,15 +3300,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4165084468115794, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4165084468115794, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4165084468115794, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4165084468115794, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
       propertyPath: m_LocalRotation.w
@@ -3321,28 +3321,6 @@ Prefab:
     - target: {fileID: 1094613834194552, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
       propertyPath: m_Name
       value: Turret Enemy 03
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165084468115794, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.67763996
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165084468115794, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 0.67763996
-      objectReference: {fileID: 0}
-    - target: {fileID: 4165084468115794, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.67763996
-      objectReference: {fileID: 0}
-    - target: {fileID: 114756660429247990, guid: e06d822d4ceb24fb587f5c3d322dd0c8,
-        type: 2}
-      propertyPath: shotCooldown
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114756660429247990, guid: e06d822d4ceb24fb587f5c3d322dd0c8,
-        type: 2}
-      propertyPath: aggroRange
-      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e06d822d4ceb24fb587f5c3d322dd0c8, type: 2}
