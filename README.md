@@ -12,4 +12,4 @@ Arcade cleaning game made in 48 hours for Ludem Dare 42 compo.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details
