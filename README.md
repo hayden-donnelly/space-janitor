@@ -1,15 +1,11 @@
 # Space Janitor
 
-Arcade cleaning game made in 48 hours for Ludem Dare 42 compo.
-
-## Built With
-
-* [Unity](https://unity.com/) - Game Engine 
+Space Janitor is an arcade cleaning game made in 48 hours for the Ludem Dare 42 compo.
 
 ## Authors
 
-* **Hayden Donnelly** - *Initial work* - [Bizbud](https://github.com/Bizbud)
+* **Hayden Donnelly** - *Programmer and Artist*
 
 ## License
 
-This project is licensed under the DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
