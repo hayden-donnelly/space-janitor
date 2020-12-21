@@ -5,6 +5,7 @@ Space Janitor is an arcade cleaning game made in 48 hours for the Ludem Dare 42 
 ## Authors
 
 * **Hayden Donnelly** - *Programmer and Artist*
+* **Eric Goetz** - *Composer*
 
 ## License
 
