@@ -1,6 +1,6 @@
 ## About
 
-Space Janitor is an arcade cleaning game made in 48 hours for the Ludem Dare 42 compo. This repository contains the complete unity project (confirmed working on version x).
+Space Janitor is an arcade cleaning game made in 48 hours for the Ludem Dare 42 compo. This repository contains the complete unity project (confirmed working on version 2018.1.0f2).
 
 ## Authors
 
